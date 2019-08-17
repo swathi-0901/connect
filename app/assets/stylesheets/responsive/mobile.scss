@@ -1,4 +1,8 @@
 @media screen and (max-width: 767px) {
+ #side-menu {
+  display: none !important;
+}
+
   .pc-menu {
     display: none !important;
   }
