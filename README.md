@@ -2,7 +2,7 @@
 
 A platform where you can search and meet like-minded people.
 
-####Functionalities which the app will have:
+#### Functionalities which the app will have:
 - Authentication
 - Ability to publish posts, and search
 - Instant messaging(seperate messenger)
